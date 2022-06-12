@@ -16,7 +16,7 @@
     <a href="https://www.facebook.com/pedro.augusto.3979/">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
-    <a href="api.whatsapp.com/send?1=pt_BR&phone=5551997811335">
+    <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5551997811335">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
     <a href="https://discord.gg/7BuSVsrpJR">
