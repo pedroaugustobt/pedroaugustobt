@@ -2,7 +2,7 @@
 <h1 style="text-align: center">
     <strong>Opa, eu sou Pedro Augusto!</strong> ☕
 </h1>
-    <div id="header" style="text-align: center">
+    <div align="center">
         <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
     </div>
 
@@ -69,7 +69,7 @@
         </p>
 </div>
 
-<div style="text-align: center; height: 150px;">
-    <img src="https://media4.giphy.com/media/WDJBtnl2cxgReYekEu/giphy.gif?cid=ecf05e47l2vnllaun761ta66eq93tcs89kus4t8zi4p9z70c&amp;rid=giphy.gif&amp;ct=g">
+<div align="center">
+    <img height="300" src="https://media4.giphy.com/media/WDJBtnl2cxgReYekEu/giphy.gif?cid=ecf05e47l2vnllaun761ta66eq93tcs89kus4t8zi4p9z70c&amp;rid=giphy.gif&amp;ct=g">
 </div>
 
